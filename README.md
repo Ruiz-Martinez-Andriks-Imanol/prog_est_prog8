@@ -19,7 +19,7 @@ Muestra el uso de:
 Objetivo: Preguntar si eres u distribuidor o cliente y calcular el pago, el descuento y el total.
 <br>
 <p>Breve descripción:
-Es un programa para una distribuidora de equipo de cómputo, la cual maneja 2 precios <br>
+Es un programa para una distribuidora de equipo de cómputo, la cual maneja 2 precios: <br>
 	<ul>
 	<li>Si estas dado de alta como distribuidor, los precios tienen 10% de descuento.</li>
 	<li>Si eres un cliente normal, los precios son sin descuentos.</li>
