@@ -18,6 +18,7 @@ Muestra el uso de:
 <br>
 Objetivo: Preguntar si eres u distribuidor o cliente y calcular el pago, el descuento y el total.
 <br>
+<br>
 <p>Breve descripción:
 Es un programa para una distribuidora de equipo de cómputo, la cual maneja 2 precios: <br>
 	<ul>
