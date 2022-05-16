@@ -1,8 +1,8 @@
 # prog_est_prog8
-Autor: Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<b>Autor:</b> Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
+<b>Escuela:</b> Universidad del Valle de Mexico Campus Villahermosa <br>
+<b>Materia:</b> Programación Estructurada <br>
+<b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de condicionales de Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -16,10 +16,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Preguntar si eres u distribuidor o cliente y calcular el pago, el descuento y el total.
+<b>Objetivo:</b> Preguntar si eres u distribuidor o cliente y calcular el pago, el descuento y el total.
 <br>
 <br>
-<p>Breve descripción:
+<p><b>Breve descripción:</b>
 Es un programa para una distribuidora de equipo de cómputo, la cual maneja 2 precios: <br>
 	<ul>
 	<li>Si estas dado de alta como distribuidor, los precios tienen 10% de descuento.</li>
